@@ -1,0 +1,4 @@
+Deixaria os interruptores 1 e 2 ligados e iria a sala, voltaria, desligaria o interruptor 1, ligaria o interruptor 3 que antes estava desligado e iria novamente a sala. 
+Caso a lâmpada estivesse ligada na primeria ida, e desligada na segunda, quer dizer que o interruptor 1 está ligado ali.
+Caso nas duas idas a lâmpada estivesse ligada, quer dizer que o interruptor 2 está ligado ali.
+Caso desde a primeira ida a lâmpada estivesse desligada e na segunda ida ligada, quer dizer que o interruptor 3 está ligado ali.
